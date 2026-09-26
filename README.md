@@ -67,7 +67,7 @@
 </p>
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -76,7 +76,7 @@
 </p>
 
 ---
-
+-->
 <p align="center">
   🌐 <a href="https://shibin.dpdns.org">Visit My Portfolio Website</a>
 </p>
