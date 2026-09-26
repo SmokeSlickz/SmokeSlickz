@@ -78,7 +78,7 @@
 ---
 
 <p align="center">
-  🌐 <a href="https://shibin.palakkal.com">Visit My Portfolio Website</a>
+  🌐 <a href="https://shibin.dpdns.org">Visit My Portfolio Website</a>
 </p>
 <!--
 **SmokeSlickz/SmokeSlickz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
